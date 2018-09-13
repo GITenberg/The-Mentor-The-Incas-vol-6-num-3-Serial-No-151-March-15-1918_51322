@@ -1,0 +1,24 @@
+_repo: The-Mentor-The-Incas-vol-6-num-3-Serial-No-151-March-15-1918_51322
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, Osgood
+    birthdate: 1889
+    deathdate: 1955
+    gutenberg_agent_id: '46358'
+    url: http://www.gutenberg.org/2009/agents/46358
+description: ''
+gutenberg_issued: '2016-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F3401'
+- !lcsh 'Incas'
+- GITenberg
+title: 'The Mentor: The Incas, vol. 6, num. 3, Serial No. 151, March 15, 1918'
+url: http://www.gutenberg.org/ebooks/51322
